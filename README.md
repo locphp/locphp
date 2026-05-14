@@ -32,7 +32,7 @@
 
 <div align="center">
 
-# 💫 About Me
+## 💫 About Me
 
 </div>
 
@@ -81,7 +81,7 @@ src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2d6M2J6aXJjcHF6N3N6Z3YxNW
 
 <div align="center">
 
-# ⚡ Tech Stack
+## ⚡ Tech Stack
 
 <br/>
 
